@@ -1,0 +1,40 @@
+.topic
+{
+    text-align:center;
+    
+}
+h1
+{
+    color:black;
+    font-style: oblique;
+}
+p
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+.Intrest
+{
+    text-align: justify;
+}
+table, td, th
+{
+    border: 1px solid black;
+    width:  60%;
+    border-collapse: collapse;
+    
+}
+th
+{
+    text-align: center;
+    height: 30px;
+    vertical-align: bottom;
+}
+tr:hover
+{
+    background-color: #ffcce6;
+}
+tr:nth-child(even)
+{
+    background-color:rgb(197, 190, 190);
+}
